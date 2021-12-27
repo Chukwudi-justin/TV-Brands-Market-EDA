@@ -22,28 +22,28 @@ Here is a list of the features in this dataset:
 *The Most available operating system in the market\
 *Average selling price by Brand\
 *Tv Rating by brand\
-*Average discount price by brand\
+*Average discount price by brand.
 
 
 ## EXPLORATORY DATA ANALYSIS OF TV 
 
-There are 912 rows and 7 columns in this dataset and this can be obtained using the python pandas library i.e *df.shape*.
-Based on the unique value of each attribute. Here is a summary of the unique values for each attribute and this can be obtained using this line of code: df.nunique().
-*Brand : 59 manufacturers in total.
-*Resolution: 5 resolution in total.
-*Size: 27 distinct Tv screen sizes in total.
+There are 912 rows and 7 columns in this dataset and this can be obtained using the python pandas library i.e *df.shape*.\
+Based on the unique value of each attribute. Here is a summary of the unique values for each attribute and this can be obtained using this line of code: df.nunique().\
+*Brand : 59 manufacturers in total.\
+*Resolution: 5 resolution in total.\
+*Size: 27 distinct Tv screen sizes in total.\
 *Operating System: 7 Tv OS types in total.
 
 #Top 5 Tv Brands in the Market based on count.
-**SAMSUNG**: 146 products.
-**LG**: 122 products.
-**SONY**: 62 products.
-**TCL**: 44 products.
+**SAMSUNG**: 146 products.\
+**LG**: 122 products.\
+**SONY**: 62 products.\
+**TCL**: 44 products.\
 **PANASONIC** 30 Products.
 
 # Relationship between Tv resolution and selling price.
 
-![Resolution](C:\Users\justin\Desktop\Data science project\resolution.png).
+![Resolution](C:\Users\justin\Desktop\Data science project\resolution.png).\
 
 ![Average Selling Price Vs Resolution](C:\Users\justin\Desktop\Data science project\Selling Price Vs Resolution.png).
 
