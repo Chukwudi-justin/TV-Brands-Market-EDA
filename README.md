@@ -45,7 +45,7 @@ Based on the unique value of each attribute. Here is a summary of the unique val
 
 # Relationship between Tv resolution and selling price.
 
-![Resolution](C:\Users\justin\Desktop\Data science project\resolution.png).
+![Resolution](C:\Users\justin\Desktop\TV Project\resolution.png).
 
 ![Average Selling Price Vs Resolution](C:\Users\justin\Desktop\Data science project\Selling Price Vs Resolution.png).
 
