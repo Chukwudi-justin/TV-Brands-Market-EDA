@@ -56,7 +56,7 @@ Based on the unique value of each attribute. Here is a summary of the unique val
 
 # Average selling price by Brand.
 
-![Average Selling price by Brand](C:\Users\justin\Desktop\Data science project\Average selling price by brand.png).
+![Average Selling price by Brand](Average selling price by brand.png).
 
 
 # Tv Rating by brand.
