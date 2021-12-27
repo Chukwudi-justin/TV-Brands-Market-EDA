@@ -16,13 +16,13 @@ Here is a list of the features in this dataset:
 
 # This project is intended to answer the following questions:.
 
-*What are the Tv demands in the market based on brands.
-*What are the top brands in the market based on demand.
-*Relationship between Tv resolution and selling price.
-*The Most available operating system in the market.
-*Average selling price by Brand.
-*Tv Rating by brand.
-*Average discount price by brand.
+*What are the Tv demands in the market based on brands\
+*What are the top brands in the market based on demand\
+*Relationship between Tv resolution and selling price\
+*The Most available operating system in the market\
+*Average selling price by Brand\
+*Tv Rating by brand\
+*Average discount price by brand\
 
 
 ## EXPLORATORY DATA ANALYSIS OF TV 
