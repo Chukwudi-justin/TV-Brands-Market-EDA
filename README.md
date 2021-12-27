@@ -35,6 +35,8 @@ Based on the unique value of each attribute. Here is a summary of the unique val
 *Operating System: 7 Tv OS types in total.
 
 #Top 5 Tv Brands in the Market based on count.
+
+
 **SAMSUNG**: 146 products.\
 **LG**: 122 products.\
 **SONY**: 62 products.\
