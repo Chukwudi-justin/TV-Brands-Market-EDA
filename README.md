@@ -45,23 +45,23 @@ Based on the unique value of each attribute. Here is a summary of the unique val
 
 # Relationship between Tv resolution and selling price.
 
-![Resolution](C:\Users\justin\Desktop\TV Project\resolution.png).
+![Resolution](resolution.png).
 
-![Average Selling Price Vs Resolution](C:\Users\justin\Desktop\TV Project\Selling Price Vs Resolution.png).
+![Average Selling Price Vs Resolution](Selling Price Vs Resolution.png).
 
 # The Most available operating system in the market.
 
-![Distribution of operating system](C:\Users\justin\Desktop\TV Project\Operating System.png).
+![Distribution of operating system](Operating System.png).
 
 
 # Average selling price by Brand.
 
-![Average Selling price by Brand](C:\Users\justin\Desktop\TV Project\Average selling price by brand.png).
+![Average Selling price by Brand](Average selling price by brand.png).
 
 
 # Tv Rating by brand.
 
-![Average Tv Rating By Brand](C:\Users\justin\Desktop\TV Project\Tv Rating by Brand.png).
+![Average Tv Rating By Brand](Tv Rating by Brand.png).
 
 
 # Average Discount Price by brand.
@@ -69,6 +69,6 @@ Based on the unique value of each attribute. Here is a summary of the unique val
 **Discounted Price = Original Price - Selling Price **
 
 
-![Distribution of Average Discount Price by Brand](C:\Users\justin\Desktop\TV Project\Distribution of products based on average discount price.png).
+![Distribution of Average Discount Price by Brand](Distribution of products based on average discount price.png).
 
 
